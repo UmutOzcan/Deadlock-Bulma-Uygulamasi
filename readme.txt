@@ -1,0 +1,2 @@
+- Ekran Görüntüleri doc klasörü içerisinde bulunmaktadır.
+- Bu proje Operating System dersi için hazırlnmıştır.
